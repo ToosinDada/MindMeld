@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_901683_mindmeld.instructor" name="x_901683_mindmeld.instructor">ff2fbcfd93c7021026b8b4697bba10d0</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-27 22:41:43</sys_created_on>
+        <sys_id>133fbcfd93c7021026b8b4697bba10d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ff2fbcfd93c7021026b8b4697bba10d0</sys_name>
+        <sys_package display_value="MindMeld LMS" source="x_901683_mindmeld">55e558b99307021026b8b4697bba106c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MindMeld LMS">55e558b99307021026b8b4697bba106c</sys_scope>
+        <sys_update_name>sys_embedded_help_role_133fbcfd93c7021026b8b4697bba10d5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-27 22:41:43</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="bd47b8b593c7021026b8b4697bba100a" sys_domain="global" table="x_901683_mindmeld_attendance" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-27 22:06:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f947b8b593c7021026b8b4697bba100d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_901683_mindmeld_attendance" name="x_901683_mindmeld_attendance" sys_domain="global" view="Default view">bd47b8b593c7021026b8b4697bba100a</sys_ui_form>
+            <sys_ui_section caption="Attendance Details" display_value="Attendance Details" name="x_901683_mindmeld_attendance" sys_domain="global" view="Default view">b2a6f47593c7021026b8b4697bba100e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-27 22:06:56</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-27 22:06:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3947b8b593c7021026b8b4697bba100e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_901683_mindmeld_attendance" name="x_901683_mindmeld_attendance" sys_domain="global" view="Default view">bd47b8b593c7021026b8b4697bba100a</sys_ui_form>
+            <sys_ui_section caption="Status and Comments" display_value="Status and Comments" name="x_901683_mindmeld_attendance" sys_domain="global" view="Default view">f547b8b593c7021026b8b4697bba1009</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-27 22:06:56</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_901683_mindmeld_attendance</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-27 22:06:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bd47b8b593c7021026b8b4697bba100a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_901683_mindmeld_attendance</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="MindMeld LMS" source="x_901683_mindmeld">55e558b99307021026b8b4697bba106c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MindMeld LMS">55e558b99307021026b8b4697bba106c</sys_scope>
+            <sys_update_name>sys_ui_form_sections_bd47b8b593c7021026b8b4697bba100a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-27 22:06:55</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

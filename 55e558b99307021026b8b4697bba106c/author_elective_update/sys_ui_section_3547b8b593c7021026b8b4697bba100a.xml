@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New section 2" section_id="3547b8b593c7021026b8b4697bba100a" sys_domain="global" table="x_901683_mindmeld_attendance" version="3" view="">
+        <sys_ui_section action="DELETE">
+            <caption>New section 2</caption>
+            <header>false</header>
+            <name>x_901683_mindmeld_attendance</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-27 22:06:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3547b8b593c7021026b8b4697bba100a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_901683_mindmeld_attendance</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="MindMeld LMS" source="x_901683_mindmeld">55e558b99307021026b8b4697bba106c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MindMeld LMS">55e558b99307021026b8b4697bba106c</sys_scope>
+            <sys_update_name>sys_ui_section_3547b8b593c7021026b8b4697bba100a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-27 22:06:55</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MindMeld LMS">55e558b99307021026b8b4697bba106c</application>
+        <file_path/>
+        <instance_id>d5b0abc91bdeb99c7d9d2f8dee4bcbe1</instance_id>
+        <instance_name>dev201810</instance_name>
+        <name>sys_ui_section_3547b8b593c7021026b8b4697bba100a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New section 2" section_id="3547b8b593c7021026b8b4697bba100a" sys_domain="global" table="x_901683_mindmeld_attendance" version="3" view=""><sys_ui_section action="INSERT_OR_UPDATE"><caption>New section 2</caption><header>false</header><name>x_901683_mindmeld_attendance</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-27 22:06:55</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3547b8b593c7021026b8b4697bba100a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_901683_mindmeld_attendance</sys_name><sys_overrides/><sys_package display_value="MindMeld LMS" source="x_901683_mindmeld">55e558b99307021026b8b4697bba106c</sys_package><sys_policy/><sys_scope display_value="MindMeld LMS">55e558b99307021026b8b4697bba106c</sys_scope><sys_update_name>sys_ui_section_3547b8b593c7021026b8b4697bba100a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-27 22:06:55</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>735754646</payload_hash>
+        <record_name>Attendance</record_name>
+        <reverted_from/>
+        <source>ade5503d9307021026b8b4697bba10d1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-27 22:28:49</sys_created_on>
+        <sys_id>2e4cfc3d93c7021026b8b4697bba10fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1905bd0d0810000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-27 22:28:49</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>ea4cfc3d61c702103408cc867f5e71fe</update_guid>
+        <update_guid_history>ea4cfc3d61c702103408cc867f5e71fe:735754646</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-27 22:28:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>435075d5dbd8438095e40162beb79000</sys_id>
+        <sys_metadata>3547b8b593c7021026b8b4697bba100a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New section 2</sys_name>
+        <sys_package display_value="MindMeld LMS" source="x_901683_mindmeld">55e558b99307021026b8b4697bba106c</sys_package>
+        <sys_parent display_value="Attendance">07b37c7193c7021026b8b4697bba1045</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="MindMeld LMS">55e558b99307021026b8b4697bba106c</sys_scope>
+        <sys_scope_delete display_value="">4e2829704e6b4a17a8b5547740c82e49</sys_scope_delete>
+        <sys_update_name>sys_ui_section_3547b8b593c7021026b8b4697bba100a</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_3547b8b593c7021026b8b4697bba100a">2e4cfc3d93c7021026b8b4697bba10fe</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-27 22:28:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

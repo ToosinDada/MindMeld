@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="0631f0bd9387021026b8b4697bba10fc" sys_domain="global" table="x_901683_mindmeld_u_courses" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-27 21:40:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>163134bd9387021026b8b4697bba100c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_901683_mindmeld_u_courses" name="x_901683_mindmeld_u_courses" sys_domain="global" view="Default view">0631f0bd9387021026b8b4697bba10fc</sys_ui_form>
+            <sys_ui_section caption="Course Details" display_value="Course Details" name="x_901683_mindmeld_u_courses" sys_domain="global" view="Default view">1d9c6cf59387021026b8b4697bba1007</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-27 21:40:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-27 21:40:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>123134bd9387021026b8b4697bba100d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_901683_mindmeld_u_courses" name="x_901683_mindmeld_u_courses" sys_domain="global" view="Default view">0631f0bd9387021026b8b4697bba10fc</sys_ui_form>
+            <sys_ui_section caption="Schedule and Location" display_value="Schedule and Location" name="x_901683_mindmeld_u_courses" sys_domain="global" view="Default view">0a31f0bd9387021026b8b4697bba10fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-27 21:40:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-27 21:40:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>563134bd9387021026b8b4697bba1010</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_901683_mindmeld_u_courses" name="x_901683_mindmeld_u_courses" sys_domain="global" view="Default view">0631f0bd9387021026b8b4697bba10fc</sys_ui_form>
+            <sys_ui_section caption="Instructor and Enrollment" display_value="Instructor and Enrollment" name="x_901683_mindmeld_u_courses" sys_domain="global" view="Default view">4a31f0bd9387021026b8b4697bba10fb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-27 21:40:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_901683_mindmeld_u_courses</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-27 21:40:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0631f0bd9387021026b8b4697bba10fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_901683_mindmeld_u_courses</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="MindMeld LMS" source="x_901683_mindmeld">55e558b99307021026b8b4697bba106c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MindMeld LMS">55e558b99307021026b8b4697bba106c</sys_scope>
+            <sys_update_name>sys_ui_form_sections_0631f0bd9387021026b8b4697bba10fc</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-27 21:40:28</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

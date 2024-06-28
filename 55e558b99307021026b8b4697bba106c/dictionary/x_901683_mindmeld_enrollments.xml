@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="116758b99307021026b8b4697bba10a8" label="Enrollments" max_length="40" name="x_901683_mindmeld_enrollments" type="collection">
+        <element label="Progress" max_length="255" name="progress" type="integer"/>
+        <element label="User" max_length="32" name="user" reference="x_901683_mindmeld_users" type="reference"/>
+        <element label="Users" max_length="32" name="users" reference="x_901683_mindmeld_u_courses" type="reference"/>
+        <element label="Enrollment ID" max_length="40" name="enrollment_id" type="string"/>
+        <element label="Feedback" max_length="40" name="feedback" type="string"/>
+        <element label="Grade" max_length="40" name="grade" type="string"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice/>
+        </element>
+        <element label="Last Accessed" max_length="255" name="last_accessed" type="glide_date_time"/>
+        <element label="Enrollment Date" max_length="40" name="enrollment_date" type="glide_date"/>
+        <element label="Course" max_length="32" name="course" reference="x_901683_mindmeld_u_courses" type="reference"/>
+        <index name="index">
+            <element name="course"/>
+        </index>
+        <index name="index2">
+            <element name="user"/>
+        </index>
+        <index name="index3">
+            <element name="users"/>
+        </index>
+    </element>
+</database>

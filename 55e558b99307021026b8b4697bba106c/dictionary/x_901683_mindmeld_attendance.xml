@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="07b37c7193c7021026b8b4697bba1045" label="Attendance" max_length="40" name="x_901683_mindmeld_attendance" type="collection">
+        <element label="Status" max_length="40" name="status" type="string"/>
+        <element label="Course" max_length="32" name="course" reference="x_901683_mindmeld_u_courses" type="reference"/>
+        <element label="Attendance ID" max_length="40" name="attendance_id" type="string"/>
+        <element label="User" max_length="32" name="user" reference="x_901683_mindmeld_users" type="reference"/>
+        <element label="Session Date" max_length="255" name="session_date" type="glide_date_time"/>
+        <element label="Comments" max_length="40" name="comments" type="string"/>
+        <element label="Instructor" max_length="32" name="instructor" reference="x_901683_mindmeld_users" type="reference"/>
+        <element label="Location" max_length="40" name="location" type="string"/>
+        <element label="Date" max_length="40" name="date" type="glide_date"/>
+        <index name="index">
+            <element name="course"/>
+        </index>
+        <index name="index2">
+            <element name="instructor"/>
+        </index>
+        <index name="index3">
+            <element name="user"/>
+        </index>
+    </element>
+</database>
