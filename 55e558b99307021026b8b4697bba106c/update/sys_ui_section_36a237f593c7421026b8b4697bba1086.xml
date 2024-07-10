@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Course Details" section_id="36a237f593c7421026b8b4697bba1086" sys_domain="global" table="x_901683_mindmeld_u_courses" version="3" view="instructor">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>course_id</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-28 12:15:38</sys_created_on>
+            <sys_id>b1897ffd93c7421026b8b4697bba1082</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Course Details" display_value="Course Details" name="x_901683_mindmeld_u_courses" sys_domain="global" view="f2a237f593c7421026b8b4697bba107f">36a237f593c7421026b8b4697bba1086</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-28 12:15:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>course_name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-28 12:15:38</sys_created_on>
+            <sys_id>b9897ffd93c7421026b8b4697bba1082</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Course Details" display_value="Course Details" name="x_901683_mindmeld_u_courses" sys_domain="global" view="f2a237f593c7421026b8b4697bba107f">36a237f593c7421026b8b4697bba1086</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-28 12:15:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-28 12:15:38</sys_created_on>
+            <sys_id>b1897ffd93c7421026b8b4697bba1083</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Course Details" display_value="Course Details" name="x_901683_mindmeld_u_courses" sys_domain="global" view="f2a237f593c7421026b8b4697bba107f">36a237f593c7421026b8b4697bba1086</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-28 12:15:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-28 12:15:38</sys_created_on>
+            <sys_id>b9897ffd93c7421026b8b4697bba1083</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Course Details" display_value="Course Details" name="x_901683_mindmeld_u_courses" sys_domain="global" view="f2a237f593c7421026b8b4697bba107f">36a237f593c7421026b8b4697bba1086</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-28 12:15:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>syllabus</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-28 12:15:38</sys_created_on>
+            <sys_id>b1897ffd93c7421026b8b4697bba1084</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Course Details" display_value="Course Details" name="x_901683_mindmeld_u_courses" sys_domain="global" view="f2a237f593c7421026b8b4697bba107f">36a237f593c7421026b8b4697bba1086</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-28 12:15:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-28 12:15:38</sys_created_on>
+            <sys_id>b9897ffd93c7421026b8b4697bba1084</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Course Details" display_value="Course Details" name="x_901683_mindmeld_u_courses" sys_domain="global" view="f2a237f593c7421026b8b4697bba107f">36a237f593c7421026b8b4697bba1086</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-28 12:15:38</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-28 12:15:38</sys_created_on>
+            <sys_id>b1897ffd93c7421026b8b4697bba1085</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Course Details" display_value="Course Details" name="x_901683_mindmeld_u_courses" sys_domain="global" view="f2a237f593c7421026b8b4697bba107f">36a237f593c7421026b8b4697bba1086</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-28 12:15:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>credits</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-28 12:15:38</sys_created_on>
+            <sys_id>b9897ffd93c7421026b8b4697bba1085</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Course Details" display_value="Course Details" name="x_901683_mindmeld_u_courses" sys_domain="global" view="f2a237f593c7421026b8b4697bba107f">36a237f593c7421026b8b4697bba1086</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-28 12:15:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-28 12:15:38</sys_created_on>
+            <sys_id>b1897ffd93c7421026b8b4697bba1086</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Course Details" display_value="Course Details" name="x_901683_mindmeld_u_courses" sys_domain="global" view="f2a237f593c7421026b8b4697bba107f">36a237f593c7421026b8b4697bba1086</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-28 12:15:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>end_date</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-28 12:15:38</sys_created_on>
+            <sys_id>b9897ffd93c7421026b8b4697bba1086</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Course Details" display_value="Course Details" name="x_901683_mindmeld_u_courses" sys_domain="global" view="f2a237f593c7421026b8b4697bba107f">36a237f593c7421026b8b4697bba1086</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-28 12:15:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Course Details</caption>
+            <header>false</header>
+            <name>x_901683_mindmeld_u_courses</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-28 11:45:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>36a237f593c7421026b8b4697bba1086</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>x_901683_mindmeld_u_courses</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="MindMeld LMS" source="x_901683_mindmeld">55e558b99307021026b8b4697bba106c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MindMeld LMS">55e558b99307021026b8b4697bba106c</sys_scope>
+            <sys_update_name>sys_ui_section_36a237f593c7421026b8b4697bba1086</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-28 12:03:52</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Instructor" name="instructor">f2a237f593c7421026b8b4697bba107f</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
